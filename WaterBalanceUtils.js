@@ -1,5 +1,5 @@
-import { goldenNumbers } from './config.js';
-import { advancedLSI } from './script.js';
+import { goldenNumbers } from 'https://nirvverve.github.io/apscommtest/config.js';
+import { advancedLSI } from 'https://nirvverve.github.io/apscommtest/script.js';
 
 // Color classes for each parameter
 const PARAM_COLORS = {

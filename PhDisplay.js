@@ -1,4 +1,4 @@
-import { poolStandards } from '../config.js';
+import { poolStandards } from 'https://nirvverve.github.io/apscommtest/config.js';
 
 // Helper to calculate acid dose (to lower pH)
 function acidDoseFlOzGallons(currentPh, targetPh, poolGallons, alkalinity) {

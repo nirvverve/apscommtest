@@ -1,4 +1,4 @@
-import { poolStandards } from '../config.js';
+import { poolStandards } from 'https://nirvverve.github.io/apscommtest/config.js';
 
 // Helper to calculate sodium bicarbonate dose (to raise alkalinity)
 function calculateBicarbDose(current, target, poolVolume) {

@@ -1,16 +1,16 @@
-import { poolStandards, chlorineTypes } from './config.js';
-import { renderAlkalinityDisplay } from './AlkalinityDisplay.js';
-import { renderCalciumHardnessDisplay } from './CalciumHardnessDisplay.js';
-import { renderPhDisplay } from './PhDisplay.js';
-import { renderCyaDisplay } from './CyaDisplay.js';
-import { renderTdsDisplay } from './TdsDisplay.js';
-import { formatChlorineDose } from './ChlorineDoseUtils.js';
-import { renderChlorineScaleDisplay } from './ChlorineScaleDisplay.js';
-import { renderLSIScale, renderLSIComponentsTable } from './LsiDisplay.js';
-import { renderWaterBalanceSteps } from './WaterBalanceDisplay.js';
-import { getSaltDose } from './SaltDoseUtils.js';
-import { renderTodayDosageCards } from './WaterBalanceUtils.js';
-import { renderBreakpointChlorination } from './BreakpointChlorinationDisplay.js';
+import { poolStandards, chlorineTypes } from 'https://nirvverve.github.io/apscommtest/config.js';
+import { renderAlkalinityDisplay } from 'https://nirvverve.github.io/apscommtest/AlkalinityDisplay.js';
+import { renderCalciumHardnessDisplay } from 'https://nirvverve.github.io/apscommtest/CalciumHardnessDisplay.js';
+import { renderPhDisplay } from 'https://nirvverve.github.io/apscommtest/PhDisplay.js';
+import { renderCyaDisplay } from 'https://nirvverve.github.io/apscommtest/CyaDisplay.js';
+import { renderTdsDisplay } from 'https://nirvverve.github.io/apscommtest//TdsDisplay.js';
+import { formatChlorineDose } from 'https://nirvverve.github.io/apscommtest//ChlorineDoseUtils.js';
+import { renderChlorineScaleDisplay } from 'https://nirvverve.github.io/apscommtest/ChlorineScaleDisplay.js';
+import { renderLSIScale, renderLSIComponentsTable } from 'https://nirvverve.github.io/apscommtest/LsiDisplay.js';
+import { renderWaterBalanceSteps } from 'https://nirvverve.github.io/apscommtest/WaterBalanceDisplay.js';
+import { getSaltDose } from 'https://nirvverve.github.io/apscommtest/SaltDoseUtils.js';
+import { renderTodayDosageCards } from 'https://nirvverve.github.io/apscommtest/WaterBalanceUtils.js';
+import { renderBreakpointChlorination } from 'https://nirvverve.github.io/apscommtest/BreakpointChlorinationDisplay.js';
 export { advancedLSI };
 
 // --- State and Pool Type Buttons ---

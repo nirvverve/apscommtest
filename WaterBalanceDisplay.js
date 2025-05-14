@@ -1,4 +1,4 @@
-import { getWaterBalanceSteps } from './WaterBalanceUtils.js';
+import { getWaterBalanceSteps } from 'https://nirvverve.github.io/apscommtest/WaterBalanceUtils.js';
 
 // Color classes for each parameter
 const PARAM_COLORS = {

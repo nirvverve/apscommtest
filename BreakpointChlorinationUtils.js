@@ -1,4 +1,4 @@
-import { formatChlorineDose } from './ChlorineDoseUtils.js';
+import { formatChlorineDose } from 'https://nirvverve.github.io/apscommtest/ChlorineDoseUtils.js';
 
 /**
  * Calculate breakpoint chlorination recommendation and dose.

@@ -1,4 +1,4 @@
-import { poolStandards } from '../config.js';
+import { poolStandards } from 'https://nirvverve.github.io/apscommtest/config.js';
 
 export function renderChlorineScaleDisplay({
   state,

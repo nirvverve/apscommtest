@@ -1,4 +1,4 @@
-import { getBreakpointChlorination } from './BreakpointChlorinationUtils.js';
+import { getBreakpointChlorination } from 'https://nirvverve.github.io/apscommtest/BreakpointChlorinationUtils.js';
 
 /**
  * Render breakpoint chlorination recommendation and dose.

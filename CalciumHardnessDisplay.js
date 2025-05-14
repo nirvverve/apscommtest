@@ -1,4 +1,4 @@
-import { poolStandards } from '../config.js';
+import { poolStandards } from 'https://nirvverve.github.io/apscommtest/config.js';
 
 // Helper to calculate calcium chloride dose (to raise calcium hardness)
 function calculateCalciumDose(current, target, poolVolume) {

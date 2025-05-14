@@ -1,6 +1,6 @@
 // Provides rendering functions for the Langelier Saturation Index (LSI) scale and components table
 
-import { goldenNumbers } from './config.js';
+import { goldenNumbers } from 'https://nirvverve.github.io/apscommtest/config.js';
 
 /**
  * Render the LSI horizontal scale/graph.
